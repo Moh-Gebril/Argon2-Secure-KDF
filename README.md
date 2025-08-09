@@ -196,4 +196,5 @@ This implementation is provided for educational and production use. While follow
 ---
 
 **Author**: Mohamed Ahmed Gebril
+
 **Blog**: https://medium.com/@moh.ahmed.gebril/secure-key-derivation-with-argon2-a-modern-approach-to-password-based-cryptography-ba18e762fc25
